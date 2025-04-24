@@ -3,10 +3,10 @@ https://aicamera-4-documentation.readthedocs.io/zh-cn/latest/
 
 ## AI摄像头在线文档
 
-git remote add origin https://github.com/labplus-cn/AICamera-4-documentation.git
+git remote add origin https://github.com/labplus-cn/AICamera-k230d-documentation.git
 ## 编译步骤
 
-git clone https://github.com/labplus-cn/AICamera-4-documentation.git
+git clone https://github.com/labplus-cn/AICamera-k230d-documentation.git
 
 python3环境安装依赖库
 
