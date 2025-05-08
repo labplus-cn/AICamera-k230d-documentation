@@ -3,10 +3,10 @@
 
 .. _SmartCamera:
 
-.. class:: SmartCamera(tx=Pin.P16, rx=Pin.P15)
+.. class:: SmartCameraK230(tx=Pin.P16, rx=Pin.P15)
    :synopsis: AI摄像头类
 
-.. method::  SmartCamera(tx=Pin.P16, rx=Pin.P15)
+.. method::  SmartCameraK230(tx=Pin.P16, rx=Pin.P15)
 
 ``tx`` 
 串口发送引脚
@@ -17,7 +17,7 @@
 例如::
     
     from mpython import *
-    import smartcamera_new as smartcamera
+    import smartcamera_k230 as smartcamera
     smartcamera.SmartCamera(tx=Pin.P16, rx=Pin.P15)
 
 

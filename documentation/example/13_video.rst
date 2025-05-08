@@ -4,7 +4,7 @@
 例程::
 
     from mpython import *
-    import smartcamera_new as smartcamera
+    import smartcamera_k230 as smartcamera
 
     smart_camera = smartcamera.SmartCamera(tx=Pin.P16, rx=Pin.P15)
     smart_camera.video_capture(choice=1, path='/sd/capture.avi', interval=100000, quality=50, width=240, height=240, duration=10)

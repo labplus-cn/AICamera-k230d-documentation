@@ -1,7 +1,7 @@
 .. 
 .. 这一页是目录树
 
-AI摄像头帮助文档
+AI摄像头4.0帮助文档
 ======================================================
 
 .. .. toctree::
@@ -31,20 +31,22 @@ AI摄像头帮助文档
     :titlesonly:
     :numbered: 
 
-    example/0_init
-    example/1_face_detect
+    example/0_init.rst
+    example/1_face_detect.rst
     example/2_face_recognization.rst
-    example/3_guidepost
-    example/4_mnist.rst  
-    example/5_resnet18_model.rst
-    example/6_yolo_model.rst
-    example/7_qrcode.rst
-    example/7_AprilTag.rst
+    example/3_face_landmark.rst
+    example/4_expression_recognition.rst
+    example/5_blink_mouth.rst
+    example/12_hand_keypoint_class.rst
     example/8_self_learning_classifier.rst
-    example/9_visual_tracking.rst
+    example/9_lpr.rst
     example/10_yolo_detect.rst
     example/11_color.rst
-    example/12_track.rst
+
+    example/20_yolo_model.rst
+    example/20_resnet18_model.rst
+    example/7_qrcode.rst
+    example/7_AprilTag.rst
     example/13_video.rst
 
 

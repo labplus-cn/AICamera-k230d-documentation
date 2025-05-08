@@ -6,7 +6,7 @@
 例程::
 
     from mpython import *
-    import smartcamera_new as smartcamera
+    import smartcamera_k230 as smartcamera
     import time
 
     smart_camera = smartcamera.SmartCamera(tx=Pin.P16, rx=Pin.P15)
@@ -24,6 +24,3 @@
 
 mPython图形化示例
 -----------
-.. figure:: /_static/image/example/face_recognization/face_recognization.png
-    :align: center
-    :width: 1080

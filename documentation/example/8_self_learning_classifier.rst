@@ -6,7 +6,7 @@
 例程::
 
     from mpython import *
-    import smartcamera_new as smartcamera
+    import smartcamera_k230 as smartcamera
 
     smart_camera = smartcamera.SmartCamera(tx=Pin.P16, rx=Pin.P15)
     ID = ['class1', 'class2']
@@ -32,7 +32,7 @@ mPython图形化示例
 例程::
 
     from mpython import *
-    import smartcamera_new as smartcamera
+    import smartcamera_k230 as smartcamera
     import time
 
     index = None
