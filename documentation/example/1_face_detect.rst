@@ -7,16 +7,12 @@
 
     from mpython import *
     import smartcamera_k230 as smartcamera
-    import time
 
-    smart_camera = smartcamera.SmartCamera(tx=Pin.P16, rx=Pin.P15)
-    smart_camera.face_detect_init(1)
+    smart_camera = smartcamera.SmartCameraK230(tx=Pin.P1, rx=Pin.P0)
+    smart_camera.model_init(1)
     while True:
-        smart_camera.face_detect.recognize()
-        if smart_camera.face_detect.face_num != None:
-            print(str('人脸数量：') + str(smart_camera.face_detect.face_num))
-            print(str('置信度：') + str(smart_camera.face_detect.max_score))
-        time.sleep_ms(20)
+        smart_camera.face_detect.recognize() 
+        print(str('face_num:') + str(smart_camera.face_detect.face_num)) # 人脸数量
 
 
 
@@ -34,16 +30,16 @@ mPython图形化示例
 
 .. _face_detect:
 
-.. class:: smart_camera.face_detect
+.. class:: smart_camera.model_init()
    :synopsis: 人脸检测实例化对象
 
-.. method::  face_detect_init(_choice=1)
+.. method::  smart_camera.model_init(1)
 
-``_choice`` -整型 摄像头序号 内置摄像头1
+``cur_state`` -整型 模型选择
 
 例::
 
-    smart_camera.face_detect_init(1)
+    smart_camera.model_init(1)
 
 .. method::  face_detect.recognize() 
 运行人脸识别

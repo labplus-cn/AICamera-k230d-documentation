@@ -24,6 +24,8 @@ AI摄像头4.0帮助文档
    
     programming_mode/index
     programming_mode/hardware_connection
+    programming_mode/master_usage
+    programming_mode/firmware_flashing
 
 .. toctree::
     :maxdepth: 4
@@ -47,7 +49,7 @@ AI摄像头4.0帮助文档
     example/20_resnet18_model.rst
     example/7_qrcode.rst
     example/7_AprilTag.rst
-    example/13_video.rst
+    .. example/13_video.rst
 
 
 .. toctree::

@@ -1,10 +1,10 @@
-初始化AI摄像头
+初始化AI摄像头4.0
 ==============
 
 .. _SmartCamera:
 
 .. class:: SmartCameraK230(tx=Pin.P16, rx=Pin.P15)
-   :synopsis: AI摄像头类
+   :synopsis: AI摄像头4.0类 
 
 .. method::  SmartCameraK230(tx=Pin.P16, rx=Pin.P15)
 

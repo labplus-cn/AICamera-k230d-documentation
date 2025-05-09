@@ -31,6 +31,7 @@ master_doc = 'index'
 # ones.
 extensions = ['recommonmark',
   'sphinx_markdown_tables',
+  'sphinxcontrib.video'
 ]
 
 # The suffix(es) of source filenames.

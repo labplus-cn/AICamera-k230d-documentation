@@ -20,7 +20,11 @@
             print(str('表情:') + str(expression_str))
         
     
-
+mPython图形化示例
+-----------
+.. figure:: /_static/image/example/face_detect/face_detect.png
+    :align: center
+    :width: 800
 
 
 mPython图形化示例

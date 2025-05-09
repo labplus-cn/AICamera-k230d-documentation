@@ -22,8 +22,12 @@
             else:
                 pass
         
-    
 
+测试视频
+-----------   
+.. video:: /_static/image/k230/blink_mouth.mp4
+    :align: center
+    :width: 640
 
 
 mPython图形化示例

@@ -1,5 +1,5 @@
 # AI摄像头4.0在线文档仓库
-https://aicamera-4-documentation.readthedocs.io/zh-cn/latest/
+https://aicamera-k230d-documentation.readthedocs.io/zh-cn/latest/
 
 ## AI摄像头在线文档
 
