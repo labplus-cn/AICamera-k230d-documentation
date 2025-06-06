@@ -8,7 +8,7 @@ AI摄像头4.0帮助文档
 
 .. toctree::
     :maxdepth: 3
-    :caption: 一、AI摄像头4.0硬件介绍 
+    :caption: 一、硬件介绍 
     :titlesonly:
     :numbered: 
 
@@ -20,16 +20,15 @@ AI摄像头4.0帮助文档
 
 .. toctree::
     :maxdepth: 3
-    :caption: 二、编程方式
+    :caption: 二、传感器编程方式
    
     programming_mode/index
     programming_mode/hardware_connection
-    programming_mode/master_usage
     programming_mode/firmware_flashing
 
 .. toctree::
     :maxdepth: 4
-    :caption: 三、示例
+    :caption: 三、掌控板示例程序
     :titlesonly:
     :numbered: 
 
@@ -44,19 +43,32 @@ AI摄像头4.0帮助文档
     example/9_lpr.rst
     example/10_yolo_detect.rst
     example/11_color.rst
-
     example/20_yolo_model.rst
     example/20_resnet18_model.rst
     example/7_qrcode.rst
-    example/7_AprilTag.rst
+    .. example/7_AprilTag.rst
     .. example/13_video.rst
 
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 四、主控模式
+   
+    master_mode/index
 
 .. toctree::
     :maxdepth: 2
     :caption: 四、API
 
-    tutorials/index
+    .. api/index
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 五、API
+
+    .. api/index
 
 .. toctree::
    :maxdepth: 2
