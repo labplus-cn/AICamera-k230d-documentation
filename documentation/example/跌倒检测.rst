@@ -5,8 +5,8 @@ Python示例
 -----------
 
 .. literalinclude:: /_static/python-examples/跌倒检测.py
-    :caption: 例程：跌倒检测.py
-    :name: 跌倒检测.py
+    :caption: 例程：跌倒检测
+    :name: 跌倒检测
 
 
 

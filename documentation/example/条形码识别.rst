@@ -5,6 +5,6 @@
 Python示例
 -----------
 
-.. literalinclude:: /_static/python-examples/条形码.py
-    :caption: 条形码.py
-    :name: 条形码.py
+.. literalinclude:: /_static/python-examples/条形码识别.py
+    :caption: 条形码
+    :name: 条形码

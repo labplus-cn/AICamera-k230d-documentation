@@ -7,8 +7,8 @@ Python示例
 -----------
 
 .. literalinclude:: /_static/python-examples/人体姿态识别.py
-    :caption: 例程：人体姿态识别.py
-    :name: 人体姿态识别.py
+    :caption: 例程：人体姿态识别
+    :name: 人体姿态识别
 
 
 
