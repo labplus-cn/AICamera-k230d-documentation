@@ -1,0 +1,17 @@
+车牌识别
+==============
+
+Python示例
+-----------
+
+.. literalinclude:: /_static/python-examples/车牌识别.py
+    :caption: 例程：车牌识别
+    :name: 车牌识别
+
+
+
+mPython图形化示例
+-----------------
+.. figure:: /_static/image/example/车牌识别.png
+    :align: center
+    :width: 1080

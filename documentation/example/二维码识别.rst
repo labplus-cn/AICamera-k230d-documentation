@@ -1,0 +1,21 @@
+二维码识别
+==============
+
+Python示例
+-----------
+
+.. literalinclude:: /_static/python-examples/二维码识别.py
+    :caption: 例程：二维码识别.py
+    :name: 二维码识别.py
+
+
+
+mPython图形化示例
+-----------
+.. figure:: /_static/image/example/qrcode/qrcode.png
+    :align: center
+    :width: 1080
+
+
+
+

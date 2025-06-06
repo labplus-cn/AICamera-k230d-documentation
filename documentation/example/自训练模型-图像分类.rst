@@ -1,0 +1,14 @@
+自训练模型-图像分类
+=====================
+
+Python示例
+-----------
+
+.. literalinclude:: /_static/python-examples/自训练模型-图像分类.py
+    :caption: 自训练模型-图像分类
+    :name: 自训练模型-图像分类
+
+
+
+mPython图形化示例
+-----------

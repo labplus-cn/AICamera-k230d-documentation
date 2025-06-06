@@ -1,0 +1,18 @@
+跌倒检测
+==============
+
+Python示例
+-----------
+
+.. literalinclude:: /_static/python-examples/跌倒检测.py
+    :caption: 例程：跌倒检测.py
+    :name: 跌倒检测.py
+
+
+
+mPython图形化示例
+-----------
+.. figure:: /_static/image/example/qrcode/AprilTag.png
+    :align: center
+    :width: 1080
+

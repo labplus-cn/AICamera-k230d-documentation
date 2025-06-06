@@ -1,31 +1,45 @@
 表情识别
 ==============
 
-代码
+Python示例
 -----------
-例程::
 
-    from mpython import *
-    import smartcamera_k230 as smartcamera
+.. literalinclude:: /_static/python-examples/表情识别.py
+    :caption: 例程：表情识别
+    :name: 表情识别
 
-    smart_camera = smartcamera.SmartCameraK230(tx=Pin.P1, rx=Pin.P0)
-    smart_camera.model_init(28)
 
-    while True:
-        smart_camera.face_expression.recognize()
-        expression = smart_camera.face_expression.expression #表情id
-        expression_str = smart_camera.face_expression.expression_str #表情字符串
-        if(expression != None):
-            print(str('表情id:') + str(expression))
-            print(str('表情:') + str(expression_str))
-        
-    
 mPython图形化示例
 -----------
-.. figure:: /_static/image/example/face_detect/face_detect.png
+.. figure:: /_static/image/example/face_expression.png
     :align: center
     :width: 800
 
 
-mPython图形化示例
+
+函数方法
 -----------
+
+.. function:: smart_camera.model_init(cur_state)
+    :noindex:
+
+    实例化模型
+
+    :param cur_state: 初始化模型id
+    :type cur_state: int
+
+
+.. class:: smart_camera.face_expression
+
+    .. method:: recognize()
+        :noindex:
+
+        运行识别
+
+
+.. class:: smart_camera.face_expression
+
+    表情识别实例
+
+   :var int expression: 表情id ：0-4  
+   :var str expression_str: 表情字符串 ：['normal','smile happy','sadness','surprise','anger']

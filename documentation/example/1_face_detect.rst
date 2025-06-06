@@ -1,18 +1,12 @@
 人脸检测
 ==============
 
-代码
+Python示例
 -----------
-例程::
 
-    from mpython import *
-    import smartcamera_k230 as smartcamera
-
-    smart_camera = smartcamera.SmartCameraK230(tx=Pin.P1, rx=Pin.P0)
-    smart_camera.model_init(1)
-    while True:
-        smart_camera.face_detect.recognize() 
-        print(str('face_num:') + str(smart_camera.face_detect.face_num)) # 人脸数量
+.. literalinclude:: /_static/python-examples/人脸检测.py
+    :caption: 例程：人脸检测
+    :name: 人脸检测
 
 
 
@@ -24,28 +18,32 @@ mPython图形化示例
     :width: 1080
 
 
-方法
+函数方法
 -----------
 
+.. function:: smart_camera.model_init(cur_state)
+    :noindex:
 
-.. _face_detect:
+    实例化模型
 
-.. class:: smart_camera.model_init()
-   :synopsis: 人脸检测实例化对象
-
-.. method::  smart_camera.model_init(1)
-
-``cur_state`` -整型 模型选择
+    :param cur_state: 初始化模型id
+    :type cur_state: int
 
 例::
 
     smart_camera.model_init(1)
 
-.. method::  face_detect.recognize() 
-运行人脸识别
 
-.. method::  face_detect.face_num
-人脸检测数量 整型
+.. class:: smart_camera.face_detect
 
-.. method::  face_detect.max_score
-人脸检测概率 浮点型 范围：[0-1]
+    .. method:: recognize()
+        :noindex:
+
+        运行识别
+
+
+.. class:: smart_camera.face_detect
+
+    人脸检测实例
+
+   :var int face_num: 人脸数量 

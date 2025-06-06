@@ -1,0 +1,15 @@
+自训练模型-目标检测
+==================
+
+Python示例
+-----------
+
+.. literalinclude:: /_static/python-examples/自训练模型-目标检测.py
+    :caption: 自训练模型-目标检测
+    :name: 自训练模型-目标检测
+
+
+
+mPython图形化示例
+-----------
+

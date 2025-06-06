@@ -33,22 +33,23 @@ AI摄像头4.0帮助文档
     :numbered: 
 
     example/0_init.rst
-    example/1_face_detect.rst
+    example/80类.rst
     example/2_face_recognization.rst
-    example/3_face_landmark.rst
+    example/1_face_detect.rst
     example/4_expression_recognition.rst
     example/5_blink_mouth.rst
-    example/12_hand_keypoint_class.rst
-    example/8_self_learning_classifier.rst
-    example/9_lpr.rst
-    example/10_yolo_detect.rst
-    example/11_color.rst
-    example/20_yolo_model.rst
-    example/20_resnet18_model.rst
-    example/7_qrcode.rst
-    .. example/7_AprilTag.rst
-    .. example/13_video.rst
-
+    example/手掌检测.rst
+    example/动态手势识别.rst
+    example/手掌关键点分类.rst
+    example/人体检测.rst
+    example/跌倒检测.rst
+    example/人体姿态识别.rst
+    example/车牌识别.rst
+    example/条形码识别.rst
+    example/二维码识别.rst
+    example/LAB颜色识别.rst
+    example/自训练模型-目标检测.rst
+    example/自训练模型-图像分类.rst
 
 
 .. toctree::

@@ -1,26 +1,45 @@
 人脸识别
 ==============
 
-代码
+Python示例
 -----------
-例程::
 
-    from mpython import *
-    import smartcamera_k230 as smartcamera
-    import time
-
-    smart_camera = smartcamera.SmartCamera(tx=Pin.P16, rx=Pin.P15)
-    smart_camera.face_recognize_init(3, 80, 1)
-    smart_camera.fcr.add_face()
-    while True:
-        smart_camera.fcr.recognize()
-        if smart_camera.fcr.id != None:
-            print(smart_camera.fcr.id)
-            print(smart_camera.fcr.max_score)
-        time.sleep_ms(20)
-
-
+.. literalinclude:: /_static/python-examples/人脸识别.py
+    :caption: 例程：人脸识别
+    :name: 人脸识别
 
 
 mPython图形化示例
 -----------
+.. figure:: /_static/image/example/face_recognization/face_recognization.png
+    :align: center
+    :width: 1080
+
+
+函数方法
+-----------
+
+.. function:: smart_camera.model_init(cur_state)
+    :noindex:
+
+    实例化模型
+
+    :param cur_state: 初始化模型id
+    :type cur_state: int
+
+
+.. class:: smart_camera.fcr
+
+    .. method:: recognize()
+        :noindex:
+
+        运行识别
+
+
+.. class:: smart_camera.fcr
+
+    人脸识别实例
+
+   :var int face_id: 人脸id 
+   :var float score: 人脸置信度
+
