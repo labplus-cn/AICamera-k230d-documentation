@@ -11,3 +11,33 @@
 .. .. figure:: /_static/image/k210.png
 ..     :align: center
 ..     :width: 1080
+
+
+.. figure:: /_static/image/firmware/AI摄4.0像头烧录固件教程_页面_1.png
+   :align: center
+   :width: 1080
+
+
+.. figure:: /_static/image/firmware/AI摄4.0像头烧录固件教程_页面_2.png
+   :align: center
+   :width: 1080
+
+
+.. figure:: /_static/image/firmware/AI摄4.0像头烧录固件教程_页面_3.png
+   :align: center
+   :width: 1080
+
+
+.. figure:: /_static/image/firmware/AI摄4.0像头烧录固件教程_页面_4.png
+   :align: center
+   :width: 1080
+
+
+.. figure:: /_static/image/firmware/AI摄4.0像头烧录固件教程_页面_5.png
+   :align: center
+   :width: 1080
+
+
+.. figure:: /_static/image/firmware/AI摄4.0像头烧录固件教程_页面_6.png
+   :align: center
+   :width: 1080
