@@ -11,5 +11,7 @@ Python示例
 
 
 mPython图形化示例
------------
-
+----------------------
+.. figure:: /_static/image/example/目标检测.png
+    :align: center
+    :width: 1080

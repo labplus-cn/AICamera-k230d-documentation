@@ -1,2 +1,14 @@
 动态手势识别
 ===================
+
+
+Python示例
+-----------
+
+.. literalinclude:: /_static/python-examples/动态手势识别.py
+    :caption: 动态手势识别.py
+    :name: 动态手势识别.py
+
+
+mPython图形化示例
+-----------

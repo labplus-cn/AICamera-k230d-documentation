@@ -1,3 +1,14 @@
 手掌检测
 ===================
 
+Python示例
+-----------
+
+.. literalinclude:: /_static/python-examples/手掌检测.py
+    :caption: 例程：手掌检测.py
+    :name: 手掌检测.py
+
+
+mPython图形化示例
+-----------
+

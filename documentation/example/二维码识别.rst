@@ -9,8 +9,12 @@ Python示例
     :name: 二维码识别.py
 
 
-
 mPython图形化示例
+-----------
+.. figure:: /_static/image/example/二维码识别.png
+    :align: center
+    :width: 1080
+
 
 
 

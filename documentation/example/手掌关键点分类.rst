@@ -12,4 +12,7 @@ Python示例
 
 
 mPython图形化示例
-----------------
+----------------------
+.. figure:: /_static/image/example/手掌关键点分类.png
+    :align: center
+    :width: 1080
