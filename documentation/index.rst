@@ -57,7 +57,7 @@ AI摄像头4.0帮助文档
     :maxdepth: 2
     :caption: 四、串口协议
    
-    master_mode/index
+    uart/index
 
 
 .. toctree::
