@@ -59,13 +59,11 @@ AI摄像头4.0帮助文档
    
     uart/index
 
-
 .. toctree::
     :maxdepth: 2
     :caption: 五、主控模式
    
     master_mode/index
-
 
 .. toctree::
    :maxdepth: 2

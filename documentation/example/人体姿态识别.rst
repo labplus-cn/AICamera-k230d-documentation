@@ -16,7 +16,7 @@ mPython图形化示例
     :width: 1080
 
 
-演示
+演示视频
 -----------
 
 .. video:: /_static/video/AI摄像头4.0-姿态识别.mp4
