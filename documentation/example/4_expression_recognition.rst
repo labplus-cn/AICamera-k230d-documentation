@@ -15,6 +15,12 @@ mPython图形化示例
     :align: center
     :width: 800
 
+演示
+-----------
+
+.. video:: /_static/video/AI摄像头4.0-表情识别.mp4
+    :align: center
+    :width: 640
 
 
 函数方法

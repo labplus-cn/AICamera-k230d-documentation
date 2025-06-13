@@ -1,8 +1,6 @@
 人体姿态识别
 ==============
 
-
-
 Python示例
 -----------
 
@@ -11,15 +9,20 @@ Python示例
     :name: 人体姿态识别
 
 
-
-演示
------------
-
-
-
 mPython图形化示例
 ----------------------
 .. figure:: /_static/image/example/人体姿态识别.png
     :align: center
     :width: 1080
+
+
+演示
+-----------
+
+.. video:: /_static/video/AI摄像头4.0-姿态识别.mp4
+    :align: center
+    :width: 640
+
+
+
 
