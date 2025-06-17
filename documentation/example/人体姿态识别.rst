@@ -13,7 +13,15 @@ mPython图形化示例
 ----------------------
 .. figure:: /_static/image/example/人体姿态识别.png
     :align: center
-    :width: 1080
+    :width: 640
+
+
+人体姿态素材
+----------------------
+
+.. figure:: /_static/image/example/人体姿态/result.jpeg
+    :align: center
+
 
 
 演示视频

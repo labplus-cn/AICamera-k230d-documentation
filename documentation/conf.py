@@ -29,10 +29,19 @@ master_doc = 'index'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['recommonmark',
+extensions = [
+  'recommonmark',
   'sphinx_markdown_tables',
-  'sphinxcontrib.video'
+  'sphinxcontrib.video',
+  'sphinxcontrib.images'
 ]
+
+# 图片默认设置
+images_config = {
+    'override_image_directive': True,  # 增强原生image指令
+    'default_image_width': '400px',
+    'default_group': 'screenshots',    # 默认分组名称
+}
 
 # The suffix(es) of source filenames.
 # You can specify multiple suffix as a list of string:
