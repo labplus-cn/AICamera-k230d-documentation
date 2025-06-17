@@ -7,7 +7,15 @@ Python示例
 .. literalinclude:: /_static/python-examples/眨眼张嘴检测.py
     :caption: 例程：眨眼张嘴检测
     :name: 眨眼张嘴检测
-    
+
+mPython图形化示例
+-----------
+
+.. figure:: /_static/image/example/眨眼.png
+    :align: center
+    :width: 1080
+
+
 函数方法
 -----------
 
@@ -46,5 +54,3 @@ Python示例
     :width: 640
 
 
-mPython图形化示例
------------

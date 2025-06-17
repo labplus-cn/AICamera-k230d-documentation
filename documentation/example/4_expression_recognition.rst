@@ -49,3 +49,27 @@ mPython图形化示例
 
    :var int expression: 表情id ：0-4  
    :var str expression_str: 表情字符串 ：['normal','smile happy','sadness','surprise','anger']
+
+
+表情
+-----------
+
+.. figure:: /_static/image/k230/表情/开心.jpeg
+    :align: center
+    :width: 640
+
+    开心
+
+
+.. figure:: /_static/image/k230/表情/悲伤.jpg
+    :align: center
+    :width: 640
+
+    悲伤
+
+
+.. figure:: /_static/image/k230/表情/惊讶.jpg
+    :align: center
+    :width: 640
+
+    惊讶
