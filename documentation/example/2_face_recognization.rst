@@ -94,4 +94,4 @@ mPython图形化示例
 
 .. Attention:: 注册成功的人脸永久有效，添加新的人脸后要重新执行人脸注册
 
-.. Attention:: /CanMV/sdcard/data/face_db 查看人脸数据库
+.. Attention:: /CanMV/sdcard/data/face_db 查看人脸数据库路径
