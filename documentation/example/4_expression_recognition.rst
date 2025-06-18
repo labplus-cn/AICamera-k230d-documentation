@@ -15,12 +15,6 @@ mPython图形化示例
     :align: center
     :width: 800
 
-演示
------------
-
-.. video:: /_static/video/AI摄像头4.0-表情识别.mp4
-    :align: center
-    :width: 640
 
 
 函数方法
@@ -49,6 +43,14 @@ mPython图形化示例
 
    :var int expression: 表情id ：0-4  
    :var str expression_str: 表情字符串 ：['normal','smile happy','sadness','surprise','anger']
+
+
+演示
+-----------
+
+.. video:: /_static/video/AI摄像头4.0-表情识别.mp4
+    :align: center
+    :width: 640
 
 
 表情

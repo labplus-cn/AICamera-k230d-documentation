@@ -16,3 +16,11 @@ mPython图形化示例
     :align: center
     :width: 1080
 
+
+素材
+-----------
+.. figure:: /_static/image/k230/跌倒检测/跌倒.jpg
+    :align: center
+    :width: 1080
+
+    跌倒
