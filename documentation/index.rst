@@ -4,7 +4,10 @@
 AI摄像头4.0帮助文档
 ======================================================
 
-.. .. toctree::
+.. figure:: /_static/image/introduce/AI4-1.png
+    :align: center
+    :width: 1080
+
 
 .. toctree::
     :maxdepth: 3

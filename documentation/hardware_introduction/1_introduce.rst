@@ -46,10 +46,6 @@ AI摄像头4.0是一款基于CanMV K230d芯片开发的高性能AI视觉传感�
 - 加速单元：集成2D、2.5D专用硬件加速单元
 
 
-.. figure:: /_static/image/k230.png
-    :align: center
-    :width: 1080
-
 产品外观
 --------
 
