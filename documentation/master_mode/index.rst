@@ -27,8 +27,8 @@ AI摄像头4.0支持使用CanMV-IDE进行开发，用户可通过IDE运行代码
 
 
 
-例程
+AI例程
 ---------------------
 
 
-访问 `AI 例程 <https://www.kendryte.com/k230_canmv/dev/zh/example/ai/AI_Demo%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3.html>`_ 获取教程
+访问 `AI例程 <https://www.kendryte.com/k230_canmv/dev/zh/example/ai/AI_Demo%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3.html>`_ 获取教程
