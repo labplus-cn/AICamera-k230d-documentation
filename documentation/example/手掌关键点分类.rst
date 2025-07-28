@@ -1,14 +1,37 @@
 手掌关键点分类
 ===================
 
+手势
+----------------------
+.. figure:: /_static/image/example/手掌关键点分类-手势.png
+    :align: center
+    :width: 600
+
+id：0  -  fist 拳头
+
+id：1  -  five 手掌
+
+id：2  -  gun 枪
+
+id：3  -  love 爱
+
+id：4  -  one 一
+
+id：5  -  six 六
+
+id：6  -  three 三
+
+id：7  -  thumbUp 点赞大拇指
+
+id：8  -  yeah 剪刀手
+
+
 Python示例
 -----------
 
 .. literalinclude:: /_static/python-examples/手掌关键点分类.py
     :caption: 例程：手掌关键点分类
     :name: 手掌关键点分类
-
-
 
 
 mPython图形化示例

@@ -32,7 +32,7 @@ AI摄像头4.0帮助文档
 
 .. toctree::
     :maxdepth: 4
-    :caption: 三、掌控板示例程序
+    :caption: 三、示例程序
     :titlesonly:
     :numbered: 
 
