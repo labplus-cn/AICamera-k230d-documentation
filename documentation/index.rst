@@ -20,7 +20,7 @@ AI摄像头4.0帮助文档
     hardware_introduction/3_function.rst
     hardware_introduction/5_hardware_parameters.rst
     hardware_introduction/4_sdcard.rst
-    hardware_introduction/8_firmware.rst
+    
 
 .. toctree::
     :maxdepth: 3
@@ -67,13 +67,13 @@ AI摄像头4.0帮助文档
     :caption: 五、主控模式
    
     master_mode/index
+    
 
 .. toctree::
    :maxdepth: 2
    :caption: 六、常见问题
 
    faq/index
-   faq/technical_exchange
 
 .. toctree::
    :maxdepth: 1
