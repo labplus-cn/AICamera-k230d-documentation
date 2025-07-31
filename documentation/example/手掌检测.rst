@@ -1,6 +1,16 @@
 手掌检测
 ===================
 
+在AI摄像头进行人手检测。可以用于手势控制，如VR，体感游戏，虚拟演奏，行为监控等场景。
+
+
+手掌图
+-----------
+.. figure:: /_static/image/k230/手掌/手掌.png
+    :align: center
+    :width: 800
+
+
 Python示例
 -----------
 
@@ -11,6 +21,6 @@ Python示例
 
 mPython图形化示例
 ----------------------
-.. figure:: /_static/image/example/手掌检测.png
+.. .. figure:: /_static/image/example/手掌检测.png
     :align: center
     :width: 1080
