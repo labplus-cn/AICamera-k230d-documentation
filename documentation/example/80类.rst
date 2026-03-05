@@ -10,6 +10,13 @@ Python示例
     :name: 车80类物体识别.py
 
 
+mPython图形化示例
+-----------------
+.. figure:: /_static/image/example/80类.png
+    :align: center
+    :width: 1080
+
+
 函数方法
 -----------
 
@@ -44,8 +51,3 @@ Python示例
 
 
 
-mPython图形化示例
------------------
-.. figure:: /_static/image/example/80类.png
-    :align: center
-    :width: 1080

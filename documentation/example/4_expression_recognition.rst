@@ -53,7 +53,7 @@ mPython图形化示例
     :width: 640
 
 
-表情
+表情示例
 -----------
 
 .. figure:: /_static/image/k230/表情/开心.jpeg

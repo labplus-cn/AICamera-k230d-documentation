@@ -48,6 +48,7 @@ AI摄像头4.0帮助文档
     example/人体检测.rst
     example/跌倒检测.rst
     example/人体姿态识别.rst
+    example/人体骨骼关键点识别.rst
     example/车牌识别.rst
     example/条形码识别.rst
     example/二维码识别.rst

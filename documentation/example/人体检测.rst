@@ -7,3 +7,10 @@ Python示例
 .. literalinclude:: /_static/python-examples/人体检测.py
     :caption: 例程：人体检测.py
     :name: 人体检测.py
+
+
+mPython图形化示例
+----------------------
+.. figure:: /_static/image/example/人体检测.png
+    :align: center
+    :width: 800
