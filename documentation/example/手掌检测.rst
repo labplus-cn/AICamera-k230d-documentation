@@ -16,11 +16,11 @@ Python示例
 
 .. literalinclude:: /_static/python-examples/手掌检测.py
     :caption: 例程：手掌检测.py
-    :name: 手掌检测.py
+    :name: 手掌检测
 
 
 mPython图形化示例
 ----------------------
-.. .. figure:: /_static/image/example/手掌检测.png
+.. figure:: /_static/image/example/手掌检测.png
     :align: center
     :width: 1080

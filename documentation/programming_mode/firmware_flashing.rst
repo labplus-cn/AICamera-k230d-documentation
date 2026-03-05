@@ -9,7 +9,7 @@
 固件系统文件
 ------------
 
-- :download:`4.0摄像头系统文件 </_static/firmware/AI摄像头4.0替换文件-20250611.zip>`
+- :download:`4.0摄像头系统文件 </_static/firmware/AI摄像头4.0 sdcard替换文件-20251229.zip>`
 
 
 .. Attention:: 摄像头4.0更新固件后，搭配乐动掌控2.0也在mPython更新一次固件

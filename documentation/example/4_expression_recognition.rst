@@ -58,20 +58,20 @@ mPython图形化示例
 
 .. figure:: /_static/image/k230/表情/开心.jpeg
     :align: center
-    :width: 640
+    :width: 480
 
     开心
 
 
 .. figure:: /_static/image/k230/表情/悲伤.jpg
     :align: center
-    :width: 640
+    :width: 480
 
     悲伤
 
 
 .. figure:: /_static/image/k230/表情/惊讶.jpg
     :align: center
-    :width: 640
+    :width: 480
 
     惊讶

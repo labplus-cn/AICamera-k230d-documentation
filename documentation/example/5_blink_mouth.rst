@@ -55,6 +55,6 @@ mPython图形化示例
 
 .. video:: /_static/image/k230/blink_mouth.mp4
     :align: center
-    :width: 640
+    :width: 480
 
 
